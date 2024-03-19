@@ -1,0 +1,1 @@
+Use command code -a <filename> to open file in VS code editor.
